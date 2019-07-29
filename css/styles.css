@@ -1,0 +1,1282 @@
+/*Primera página */
+.navbar {
+    background: #2a252d;
+    margin-top: 8px;
+    display: block;
+    padding-right: 80px;
+    border-radius: 0px;
+}
+
+.line3 {
+    color: #C9C0C1;
+    margin-left: 10%;
+    width: 80%;
+}
+
+.damn a {
+    color: #d3e9f3;
+    font-family: 'beauty';
+    font-size: 32px;
+}
+
+.damn2 a {
+    color: #ED6A5A;
+}
+
+.damn3 a {
+    color: #ED6A5A;
+}
+
+.damn4 a {
+    color: #ffffff;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+#contenedorlogo {
+    background: #ffffff;
+}
+
+#logo {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 14px;
+    width: 180px;
+    height: 160px;
+    background: #ffffff;
+    margin-top: -156px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 1px solid #5b2333;
+}
+
+#marco {
+    border: 1.4px solid #d3e9f3;
+    padding-top: 10px;
+    margin-top: -9px;
+    font-family: "tall";
+    font-size: 38px;
+    color: #ED6A5A;
+    padding-bottom: -10px;
+}
+
+.downarrow {
+    width: 17.369px;
+    height: 15.481px;
+    margin-top: -4px;
+}
+
+#dropdownMenu1 {
+    font-size: 38px;
+    border: none;
+    width: 100px;
+    background: #ffffff;
+    height: 7px;
+    margin-top: -44px;
+}
+
+.segundo2 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5B2333;
+    font-family: 'tall';
+    font-size: 20pt;
+    font-weight: bold;
+    background: #ffffff;
+    border-radius: 0px;
+    box-shadow: 0px 1px 29px -3px rgba(0, 0, 0, 0.36);
+}
+
+.line4 {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: -20px;
+    margin-bottom: -15px;
+}
+
+.rayas {
+    background: #2A252D;
+    border: none;
+    color: #d3e9f3;
+    font-family: 'beauty';
+    width: 300px;
+}
+
+.mas {
+    padding: 10px;
+}
+
+.icon-bar {
+    background-color: #ED6A5A;
+}
+
+#izquierda {
+    padding-left: 80px;
+}
+
+#derecha {
+    padding-right: 80px;
+}
+
+@font-face {
+    font-family: 'tall';
+    src: url("../fonts/TallFilmsExpanded.ttf");
+}
+
+@font-face {
+    font-family: 'beauty';
+    src: url("../fonts/BeautyDemo.ttf");
+}
+
+#tercero {
+    background-color: #d3e9f3;
+    margin-top: 28px;
+    width: 900px;
+    height: 496px;
+}
+
+#subtercero {
+    border: 1pt solid #ffffff;
+    background-color: #d3e9f3;
+    margin-top: 10px;
+    margin-left: -5px;
+    width: 880px;
+    height: 470px;
+}
+
+#subsubtercero {
+    background-color: #ffffff;
+    margin-top: 60px;
+    margin-left: 25px;
+    width: 795px;
+    height: 391px;
+}
+
+#myCarousel {
+    margin-top: 85px;
+    border: 6px solid #ffffff;
+    width: 100%;
+    padding: 0px;
+}
+
+.carouseltotal {
+    margin-top: -66px;
+    padding-bottom: 44px;
+}
+
+#franja {
+    margin-top: 25px;
+    color: #ffffff;
+    background-color: #ED6A5A;
+    font-family: 'beauty';
+    font-size: 45px;
+    padding-top: 3px;
+    height: 44px;
+}
+
+.primero {
+    background-color: #d3e9f3;
+    margin-top: 18px;
+    box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #fcffeb;
+}
+
+.segundo {
+    background-color: #d3e9f3;
+    border: 1pt solid #ffffff;
+    padding: 0px;
+    margin-top: 10px;
+}
+
+.tendencias {
+    background-color: #ED6A5A;
+    margin-top: 10px;
+    box-shadow: inset 0 0 0 15px #ED6A5A, inset 0 0 0 16px #fcffeb;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    font-family: 'beauty';
+    color: #ffffff;
+}
+
+.clasificados {
+    background-color: #d3e9f3;
+    margin-top: 10px;
+    box-shadow: inset 0 0 0 15px #d3e9f3, inset 0 0 0 16px #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'beauty';
+    color: #5b2333;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.clasificados>h1 {
+    text-align: center;
+}
+
+.profesionales h2 {
+    color: #2A252D;
+    font-size: 24.38px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.profesionales p {
+    color: #5b2333;
+    font-size: 19.64px;
+    padding-left: 17px;
+    padding-right: 17px;
+    font-weight: bold;
+}
+
+.tendenciasfoto {
+    width: 199, 649px;
+    height: 152.853px;
+    margin-top: 5px;
+}
+
+.horizontal {
+    height: 6px solid #c9c0c1;
+    width: 600px;
+    margin: auto;
+    margin-top: 25px
+}
+
+.subrayado1 {
+    width: 6em;
+    height: 3px;
+    margin: auto;
+    margin-top: -25px;
+}
+
+.subrayado2 {
+    width: 6em;
+    height: 2px;
+    margin: auto;
+    margin-top: -28px;
+    background-color: #5b2333;
+}
+
+.subrayado3 {
+    width: 9em;
+    height: 3px;
+    margin: auto;
+    margin-top: -25px;
+}
+
+.losmaselegidos {
+    background-color: #ED6A5A;
+    margin-top: 20px;
+    box-shadow: inset 0 0 0 15px #ED6A5A, inset 0 0 0 16px #ffffff;
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: 'beauty';
+    color: #ffffff;
+    padding-top: 10px;
+    height: 268, 592px;
+}
+
+.segundaseccion {
+    margin-top: 2px;
+}
+
+.profesionales {
+    font-family: 'tall';
+}
+
+.primeralinea hr {
+    background-color: #c9c0c1;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.segundalinea hr {
+    background-color: #c9c0c1;
+}
+
+.boton {
+    background-color: #5B2333;
+    font-family: 'beauty';
+    font-size: 20pt;
+    color: #ffffff;
+    margin: 0 auto;
+    display: block;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.pie {
+    margin-top: 125px;
+    background-color: #9B9B9B;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.izq h5 {
+    font-family: 'beauty';
+    color: #ffffff;
+    font-size: 35pt;
+}
+
+.izq h6 {
+    font-family: 'tall';
+    color: #2A252D;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.izq p {
+    font-family: 'tall';
+    color: #ffffff;
+    font-size: 19pt;
+}
+
+.dere h5 {
+    font-family: 'beauty';
+    color: #ffffff;
+    font-size: 35pt;
+}
+
+.dere h6 {
+    font-family: 'tall';
+    color: #2A252D;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.dere p {
+    font-family: 'tall';
+    color: #ffffff;
+    font-size: 19pt;
+}
+
+.copy {
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 17pt;
+    font-family: 'tall';
+    color: #ffffff;
+    background-color: #2A252D;
+}
+
+.izq {
+    padding: 0px;
+}
+
+.izq h6 {
+    margin-left: -22px;
+}
+
+.izq h5 {
+    margin-left: 11px;
+}
+
+.dere h6 {
+    margin-left: -22px;
+}
+
+.dere h5 {
+    margin-left: 11px;
+}
+
+.abajo {
+    margin-top: 64px;
+}
+
+.abajo2 {
+    margin-top: 4px;
+}
+
+.logofooter {
+    margin-top: 133px;
+}
+
+@media (max-width: 782px) {
+
+    #izquierda {
+        padding-left: 0px;
+        margin-top: 50px;
+        margin-left: 2px;
+    }
+
+    #derecha {
+        margin-top: 20px;
+        margin-left: 2px;
+        padding-top: 25px;
+        padding-bottom: 10px;
+    }
+
+    .linea1 {
+        margin-top: 5px;
+        background-color: #d3e9f3;
+        width: 220px;
+    }
+
+    .linea2 {
+        margin-top: 5px;
+        background-color: #d3e9f3;
+        width: 220px;
+    }
+
+    .linea3 {
+        margin-top: 5px;
+        background-color: #d3e9f3;
+        width: 220px;
+        margin-left: -16px;
+    }
+
+    .linea4 {
+        margin-top: 5px;
+        background-color: #d3e9f3;
+        width: 220px;
+    }
+
+    .segundo2 {
+        text-align: left;
+        padding-top: 20px;
+        padding-bottom: 0px;
+        color: #5B2333;
+        font-family: 'tall';
+        font-size: 20pt;
+        font-weight: bold;
+        background: #ffffff;
+        margin-left: 10px;
+        height: 130px;
+    }
+
+    .segundo2 :first-child {
+        margin-bottom: 10px;
+    }
+
+    .mas {
+        width: 100px;
+    }
+
+    .locales {
+        width: 100px;
+    }
+
+    .contacto {
+        width: 100px;
+    }
+
+    .menuderecha {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 50px;
+    }
+
+    .menuderecha li a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .downarrow {
+        width: 17.369px;
+        height: 15.481px;
+    }
+}
+
+
+
+@media (max-width: 767px) {
+
+    #logo2 {
+        width: 144px;
+        height: 132.38px;
+        translate: (10px, 100px);
+    }
+
+    .contenedorgris {
+        margin-right: 100px;
+    }
+
+    .contenedorgris2 {
+        margin-left: 0px;
+    }
+
+    .filtro {
+        padding-left: -100px;
+    }
+
+    .dere {
+        margin-left: 0px;
+    }
+
+    .izq {
+        margin-left: 0px;
+    }
+
+    .navbar2elements {
+        padding-top: 10px;
+    }
+
+    #botonservicio {
+        text-align: left;
+        margin-left: -17px;
+    }
+
+    #marco {
+        padding-bottom: 10px;
+    }
+
+    .segundo2 {
+        margin-top: -40px;
+    }
+
+    .locales {
+        position: absolute;
+
+    }
+}
+
+@media (min-width:768px) and (max-width: 992px) {
+
+    #logo2 {
+        width: 158px;
+        height: 145.25px;
+
+    }
+
+    #franja {
+        height: 40px;
+        font-size: 41px;
+    }
+
+    .contenedorgris {
+        margin-left: -100px;
+    }
+
+    .contenedordeproductos1 {
+        margin-right: 30px;
+    }
+
+    .contenedordeproductos2 {
+        margin-right: 30px;
+    }
+
+    .contenedordeproductos3 {
+        margin-right: 30px;
+    }
+}
+
+@media (min-width:766px)and (max-width:782px) {
+    #izquierda {
+        margin-left: 0px;
+    }
+}
+
+@media (min-width:1200px) {
+
+    .clasificados {
+        width: 8‎0‎0px;
+        margin-left: 8.3%;
+    }
+
+    .tendencias {
+        width: 80‎0px;
+        margin-left: -25%;
+    }
+
+    .losmaselegidos {
+        width: 80‎0px;
+        margin-left: -25%;
+    }
+
+    #marco {
+        width: 1050px;
+    }
+
+}
+
+@media (max-width: 988px) {
+    .izq {
+        padding-top: 11px;
+        margin-left: 88px;
+        padding-right: 22px;
+    }
+}
+
+@media (max-width: 988px) {
+    .dere {
+        margin-left: 88px;
+        padding-top: 33px;
+    }
+}
+
+@media (max-width: 1366px) {
+
+    v1,
+    v2,
+    v3,
+    v4 {
+        visibility: hidden;
+    }
+}
+
+
+.menuderecha li a {
+    font-family: 'tall';
+    color: #d3e9f3;
+    align-self: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 20pt;
+}
+
+.menuderecha {
+    background-color: #2a252d;
+}
+
+.botoncito {
+    background-color: #2a252d;
+    margin-top: 11px;
+    margin-left: px;
+}
+
+.damn>li>a:hover {
+    background-color: #433B49;
+}
+
+.damn>li>a:visited {
+    background-color: #433B49;
+}
+
+.nav .open>a,
+.nav .open>a:focus,
+.nav .open>a:hover {
+    background-color: #433B49;
+}
+
+.nav .open>a,
+.nav .open>a:focus,
+.nav .open>a:active {
+    background-color: #433B49;
+}
+
+/*  Segunda página */
+.filtro {
+    background-color: #ED6A5A;
+    color: #ffffff;
+    font-family: 'tall';
+    font-size: 50pt;
+    margin-top: 44px;
+    margin-left: px;
+    padding-left: 20px;
+    padding-top: -100px;
+    height: 60px;
+}
+
+.btn {
+    padding-top: 0px;
+    border-radius: 0px;
+    width: 70%;
+}
+
+.buscar {
+    font-family: 'tall';
+    background-color: #ffffff;
+    color: #C9C0C1;
+    font-size: 20pt;
+    margin-top: 44px;
+    margin-right: 20px;
+    padding-top: px;
+    height: 46px;
+}
+
+.buscar h3 {
+    margin-top: 10px;
+    font-size: 20pt;
+
+}
+
+.filtro h3 {
+    margin-top: 17px;
+    margin-left: -20px;
+    font-size: 20pt;
+}
+
+.pagination li a {
+    background-color: none;
+    margin-top: 11px;
+    color: #5B2333;
+    font-family: 'tall';
+    font-size: 18pt;
+}
+
+.pagina {
+    margin-top: 36px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: right;
+    color: #ED6A5A;
+    font-family: 'tall';
+    font-size: 22pt;
+
+}
+
+.contenedorgris {
+    background: #C9C0C1;
+    margin-left: 65.25px;
+    margin-bottom: 10px;
+}
+
+.contenedorgris2 {
+    background: #C9C0C1;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+.prod {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.marcoproducto {
+    background: #2A252D;
+    color: #ffffff;
+    height: 60px;
+    margin-top: -70px;
+    font-family: 'tall';
+    font-size: 20pt;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.precio {
+    color: #ED6A5A;
+}
+
+.flecha {
+    width: 17.369px;
+    height: 15.481px;
+    margin-top: 25px;
+}
+
+.segundo {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5B2333;
+    font-family: 'tall';
+    font-size: 20pt;
+    font-weight: bold;
+    background: #ffffff;
+    width: 70%;
+    border-radius: 0px;
+    margin-top: 0px;
+    box-shadow: 0px 1px 29px -3px rgba(0, 0, 0, 0.36);
+}
+
+.segundo li a {
+    color: #5B2333;
+}
+
+.line {
+    width: 150px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    margin-left: 15%;
+    color: #C9C0C1;
+}
+
+.conjunto {
+    padding-bottom: 25px;
+}
+
+.pagina2 {
+    margin-top: 36px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: right;
+    color: #ED6A5A;
+    font-family: 'tall';
+    font-size: 22pt;
+    padding-bottom: 60px;
+}
+
+.vl {
+    border-left: 1px solid #c9c0c1;
+    height: 433px;
+    margin-top: 65px;
+    margin-left: 45px;
+}
+
+.v2 {
+    border-left: 1px solid #c9c0c1;
+    height: 433px;
+    margin-top: 65px;
+    margin-left: 20px;
+}
+
+.v3 {
+    border-left: 1px solid #c9c0c1;
+    height: 433px;
+    margin-top: 65px;
+    margin-left: 45px;
+}
+
+.v4 {
+    border-left: 1px solid #c9c0c1;
+    height: 433px;
+    margin-top: 65px;
+    margin-left: 20px;
+}
+
+.v5 {
+    border-left: 1px solid #c9c0c1;
+    height: 1350px;
+    margin-top: 65px;
+    margin-left: 45px;
+}
+
+.v6 {
+    border-left: 1px solid #c9c0c1;
+    width: 1px;
+    background-color: #c9c0c1;
+    height: 1350px;
+    padding: 0px;
+    margin-top: 65px;
+    margin-left: 20px;
+}
+
+.v7 {
+    border-left: 1px solid #c9c0c1;
+    height: 2000px;
+    margin-top: 65px;
+    margin-left: 45px;
+}
+
+.v8 {
+    border-left: 1px solid #c9c0c1;
+    width: 1px;
+    background-color: #c9c0c1;
+    height: 2000px;
+    padding: 0px;
+    margin-top: 65px;
+    margin-left: 20px;
+}
+
+.search {
+    margin-top: 13px;
+    width: 100px;
+    height: 100px;
+}
+
+.barra {
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 1px;
+}
+
+#logo2 {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 14px;
+    width: 180px;
+    height: 160px;
+    background: #ffffff;
+    margin-top: -82px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 1px solid #5b2333;
+    margin-bottom: -10px;
+}
+
+#logo3 {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 14px;
+    width: 144px;
+    height: 132.38px;
+    background: #ffffff;
+    margin-top: -82px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    border: 1px solid #5b2333;
+    margin-bottom: -10px;
+}
+
+#servicios {
+    color: #ED6A5A;
+}
+
+#botonservicio {
+    border: none;
+    text-align: center;
+    font-size: 38px;
+    background: #ffffff;
+    width: 120px;
+}
+
+.hamburgermenu {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.lineaservicios {
+    width: 100px;
+    margin-left: 20%;
+   
+}
+
+#belleza {
+    padding-bottom: 0px;
+}
+
+#peluqueria {
+    padding-bottom: 0px;
+}
+
+.navbar2elements span a {
+    color: #ED6A5A;
+}
+
+@media (min-width: 768px) and (max-width:942px) {
+    .damn {
+        margin-left: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .contenedorgris {
+        margin-left: 29px;
+    }
+
+    .contenedorgris2 {
+        margin-left: 29px;
+    }
+}
+
+/*Página peluquería*/
+
+#peluqueriatitulo {
+    text-align: center;
+    font-family: 'beauty';
+    color: #5B2333;
+    font-size: 50pt;
+}
+
+.peluqueriarow {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.contenedortabs {
+    background: #ED6A5A;
+    margin-top: 10px;
+    height: 65px;
+    box-shadow: 0px -1px 2px 0px rgba(188, 83, 75, 1);
+}
+
+.tab1 {
+    background: #ED6A5A;
+    margin-top: 25px;
+    box-shadow: 0px -1px 7px 0px rgba(188, 83, 75, 1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tab2 {
+    background: #ED6A5A;
+    margin-top: 25px;
+    box-shadow: 0px -1px 7px 0px rgba(188, 83, 75, 1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#serviciotab {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'tall';
+    font-size: 25pt;
+    padding-left: 40%;
+}
+
+#stafftab {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'tall';
+    font-size: 25pt;
+    padding-left: 40%;
+}
+
+.pagina3 {
+    margin-top: 36px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: right;
+    color: #ED6A5A;
+    font-family: 'tall';
+    font-size: 22pt;
+    padding-bottom: 60px;
+}
+
+.numeracion {
+    margin-top: 50px;
+}
+
+.horizontal2 {
+    height: 6px solid #c9c0c1;
+    width: 600px;
+    margin: auto;
+    margin-top: -50px
+}
+
+#personal1 {
+    width: 308.395px;
+    height: 473.875px;
+   
+}
+
+.rebordegris {
+    background-color: #C9C0C1;
+    padding: 8.7px;
+    margin-left: 25px;
+}
+
+.descripcionpers1 {
+    font-family: 'tall';
+    color: #5B2333;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+
+#nombre {
+    font-size: 38pt;
+    color: #5B2333;
+}
+
+.descripcionpers1 p {
+    font-size: 22pt;
+    color: #2A252D;
+}
+
+#sustrabajos {
+    color: #ED6A5A;
+}
+
+#instagram {
+    color: #000000;
+}
+
+#personal2 {
+    width: 308.395px;
+    height: 473.875px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rebordegris2 {
+    background-color: #C9C0C1;
+    padding-left: 8.7px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+#nombre2 {
+    font-size: 38pt;
+    color: #5B2333;
+}
+
+.descripcionpers1 p {
+    font-size: 22pt;
+    color: #2A252D;
+}
+
+#sustrabajos2 {
+    color: #ED6A5A;
+}
+
+#instagram2 {
+    color: #000000;
+}
+
+#personal3 {
+    width: 308.395px;
+    height: 473.875px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rebordegris3 {
+    background-color: #C9C0C1;
+    padding-left: 8.7px;
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+
+#nombre3 {
+    font-size: 38pt;
+    color: #5B2333;
+}
+
+.descripcionpers1 p {
+    font-size: 22pt;
+    color: #2A252D;
+}
+
+#sustrabajos3 {
+    color: #ED6A5A;
+}
+
+#instagram3 {
+    color: #000000;
+}
+
+#tintura {
+    font-size: 45pt;
+    color: #5B2333;
+}
+
+.precio2 {
+    font-size: 38pt;
+    color: #2A252D;
+    margin-left: 20px;
+}
+
+#corte {
+    font-size: 45pt;
+    color: #5B2333;
+}
+
+#peinado {
+    font-size: 45pt;
+    color: #5B2333;
+}
+
+.servicios {
+    color: #ffffff;
+}
+
+.staff {
+    color: #ffffff;
+}
+
+.servicios:hover {
+    color: #ffffff;
+}
+
+.staff:hover {
+    color: #ffffff;
+}
+
+.descripcionservicios {
+    font-family: 'tall';
+    margin-left: 70px;
+    margin-top: 80px;
+    padding-left: 130px;
+    padding-top: 80px;
+}
+
+@media (max-width: 980px) {
+    #personal1 {
+        width: 235.471px;
+        height: 361.822px;
+    }
+
+    #personal2 {
+        width: 235.471px;
+        height: 361.822px;
+    }
+
+    #personal3 {
+        width: 235.471px;
+        height: 361.822px;
+    }
+
+    .descripcionservicios {
+        padding-left: 80px;
+    }
+
+    #serviciotab {
+        padding-left: 20%;
+    }
+}
+
+@media (max-width: 320px) {
+
+   
+
+    .rebordegris2 {
+        padding-left: 10px;
+        margin-left: 12%;
+    }
+
+    .rebordegris3 {
+        padding-left: 10px;
+        margin-left: 12%;
+    }
+
+    #personal1 {
+        width: 218.659px;
+        height: 335.988px;
+    }
+
+    #personal2 {
+        width: 218.659px;
+        height: 335.988px;
+    }
+
+    #personal3 {
+        width: 218.659px;
+        height: 335.988px;
+    }
+
+    .descripcionservicios {
+        margin-left: 0px;
+      
+    }
+    .rebordegris{
+        margin-left:33px;
+   }
+   .descripcionpers1{
+    margin-left: 33px;
+    
+   }
+  
+}
+@media (max-width: 766px) and (min-width:338px) {
+     .descripcionpers1{
+        margin-left: 77px;
+    }
+    .rebordegris{
+        margin-left:77px;
+   }
+
+
+}
+
+@media (max-width: 766px){
+    
+    .descripcionpers1{
+         margin-top:4px; 
+    }
+    .descripcionservicios{
+         margin-top:-48px;
+         
+    }
+}
+
+.lineaservicios hr{
+margin-top: 6px;
+margin-bottom: 6px;
+
+}
+.v9{
+    border-left: 1px solid #c9c0c1;
+    width: 1px;
+    background-color: #c9c0c1;
+    height: 390px;
+    padding: 0px;
+    margin-top: 65px;
+    margin-left: 20px;
+}
